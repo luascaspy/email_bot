@@ -4,6 +4,9 @@ import time
 from email.message import EmailMessage
 from secret import password
 
+#Made by Luascas
+#https://github.com/luascaspy
+
 #Configuration of GMAIL Account 
 EMAIL_ADDRESS = 'yourmail@gmail.com' #The email address you will use
 EMAIL_PASSWORD = password #Configure your password in dad
