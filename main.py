@@ -9,7 +9,7 @@ from secret import password
 
 #Configuration of GMAIL Account 
 EMAIL_ADDRESS = 'yourmail@gmail.com' #The email address you will use
-EMAIL_PASSWORD = password #Configure your password in dad
+EMAIL_PASSWORD = password #Configure your password in secret.py
 
 #Create of E-mail
 msg = EmailMessage()
